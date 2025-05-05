@@ -1,4 +1,4 @@
-<h1>Prijeto Nike</h1>
+<h1>Projeto Nike</h1>
 
 <h4>
 Com uma Interface limpa, e chamativa, essa aplicação ficou bem legal!
