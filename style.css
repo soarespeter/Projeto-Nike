@@ -228,6 +228,8 @@ body{
     display: flex;
     padding: 0;
     margin: 0;
+    max-width: 100vw;
+    max-height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
 }
@@ -313,8 +315,9 @@ body::before {
     transform: rotate(-25deg);
     filter: drop-shadow(30px 45px 40px #161616);
     transition: 1s;
-    position: absolute;
-    top: 350px;
+    position: static;
+    margin-top: 270px;
+    z-index: -1;
 }
 
 
